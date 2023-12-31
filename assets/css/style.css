@@ -36,3 +36,9 @@ a {
     border-color: black;
 
 }
+
+body {
+    
+    background:  linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0) 100%);
+
+}
