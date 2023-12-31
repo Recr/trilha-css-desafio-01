@@ -1,0 +1,38 @@
+h1 {
+    background-image: linear-gradient(#33A8DB, #1472B7);
+    place-items: center;
+    text-transform: uppercase;
+
+}
+
+button {
+    color: #31A8DD;
+
+}
+
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: #33A8DB;
+
+}
+
+.banner-content {
+    text-align: center;
+}
+
+.banner-content button {
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 19px;
+    letter-spacing: 0.21em;
+    text-transform: uppercase;
+    width: 326px;
+    height: 57px;
+    padding: 19px, 91px, 19px, 91px;
+    border: 20px;
+    border-color: black;
+
+}
